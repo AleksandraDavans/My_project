@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="my_project.rc">F:/my_project/my_project.rc</file>
+</qresource>
+</RCC>
